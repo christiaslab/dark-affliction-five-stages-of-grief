@@ -1,7 +1,7 @@
 <h1 align="center">🎶 Dark Affliction – <i>Five Stages of Grief</i></h1>
 
 <p align="center">
-  <img src="cover/cover.jpg" alt="Album Cover" width="300">
+  <img src="cover.png" alt="Dark Affliction — Five Stages of Grief" width="300">
 </p>
 
 <p align="center"><b>Post-Black Metal | Doom</b><br>
